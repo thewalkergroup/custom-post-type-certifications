@@ -1,3 +1,13 @@
+<?php
+/*
+Plugin Name: Custom Post Type: Certifications
+Plugin URI: 
+Description: Certifications post type
+Version: 1.0
+Author: Michael W. Delaney
+Author URI: 
+License: MIT
+*/
 // Register Custom Post Type
 function certifications_post_type() {
 
